@@ -1,0 +1,4 @@
+# Ignorar arquivos grandes do diretório data
+# Todos os arquivos .xlsx dentro de data/
+data/*.xlsx
+
